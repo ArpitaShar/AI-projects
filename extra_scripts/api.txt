@@ -1,0 +1,4 @@
+https://mrddashboard.nic.in/NLMApi/common/getRg_MGNREGADetails
+
+https://mrddashboard.nic.in/NLMApi/common/getRg_NSAPDetails
+
